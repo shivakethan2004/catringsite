@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/catringsite/static/css/main.5db7ff07.css",
-    "main.js": "/catringsite/static/js/main.792a817e.js",
+    "main.css": "/catringsite/static/css/main.dc4d6ff2.css",
+    "main.js": "/catringsite/static/js/main.129152b2.js",
     "static/media/catringimage.jpg": "/catringsite/static/media/catringimage.2b71ea9c8b64ed7a9967.jpg",
     "static/media/side_pics.png": "/catringsite/static/media/side_pics.31ffd44bb593ddc2a086.png",
     "static/media/2.png": "/catringsite/static/media/2.c3430b461dacb9bc3d9b.png",
     "static/media/1.png": "/catringsite/static/media/1.1b8883614e51bb801ef0.png",
     "index.html": "/catringsite/index.html",
-    "main.5db7ff07.css.map": "/catringsite/static/css/main.5db7ff07.css.map",
-    "main.792a817e.js.map": "/catringsite/static/js/main.792a817e.js.map"
+    "main.dc4d6ff2.css.map": "/catringsite/static/css/main.dc4d6ff2.css.map",
+    "main.129152b2.js.map": "/catringsite/static/js/main.129152b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.5db7ff07.css",
-    "static/js/main.792a817e.js"
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.129152b2.js"
   ]
 }
